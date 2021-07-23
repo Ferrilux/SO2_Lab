@@ -1,0 +1,6 @@
+/* pierwsze */
+
+/* dwa w jednej */ /* linii */
+
+/* dwie
+ linie */
